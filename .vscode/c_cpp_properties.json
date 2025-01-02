@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/hwthinker/Documents/PlatformIO/Projects/BlinkyUno/include",
-                "/home/hwthinker/Documents/PlatformIO/Projects/BlinkyUno/src",
+                "/home/hwthinker/Documents/PlatformIO/Projects/BTS7960-Uno/include",
+                "/home/hwthinker/Documents/PlatformIO/Projects/BTS7960-Uno/src",
                 "/home/hwthinker/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/hwthinker/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/home/hwthinker/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/hwthinker/Documents/PlatformIO/Projects/BlinkyUno/include",
-                    "/home/hwthinker/Documents/PlatformIO/Projects/BlinkyUno/src",
+                    "/home/hwthinker/Documents/PlatformIO/Projects/BTS7960-Uno/include",
+                    "/home/hwthinker/Documents/PlatformIO/Projects/BTS7960-Uno/src",
                     "/home/hwthinker/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/hwthinker/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/home/hwthinker/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
