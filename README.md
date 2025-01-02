@@ -92,8 +92,6 @@ delay(1000);
    - Bergerak mundur selama 1 detik.
    - Berhenti selama 1 detik.
 
-Semoga berhasil! Jika ada pertanyaan atau kendala, jangan ragu untuk bertanya. 😊
-
 ------
 
 Dengan tutorial ini, Anda seharusnya dapat mengendalikan motor DC menggunakan modul BTS7960 dan Arduino. Selamat mencoba! 😊
